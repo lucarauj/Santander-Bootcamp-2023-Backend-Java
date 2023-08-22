@@ -15,12 +15,6 @@
 
 <br>
 
-- Se o valor salário base, for maior que valor salário pretentido, imprima : LIGAR PARA O CANDIDATO;
-- Senão, Se o valor salário base for igual ao valor salário pretentido, imprima : LIGAR PARA O CANDIDATO, COM CONTRA PROPOSTA;
-- Senão imprima: AGUARDANDO RESULTADO DOS DEMAIS CANDIDATOS.
-
-<br>
-
 ## 👨‍🎓 Autor
 
 #### Lucas Araujo
