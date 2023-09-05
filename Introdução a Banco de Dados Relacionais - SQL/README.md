@@ -54,17 +54,17 @@
 
 ## Comando SELECT - Operadores
 
-- =
-- <> ou !=
-- >
-- <
-- >=
-- <=
-- LIKE (comparação de padrões)
-- IN (pertence a uma lista de valores)
-- BETWEEN (dentro de um intervalo)
-- AND
-- OR
+- '='
+- '<>' ou '!='
+- '>'
+- '<'
+- '>='
+- '<='
+- 'LIKE' (comparação de padrões)
+- 'IN' (pertence a uma lista de valores)
+- 'BETWEEN' (dentro de um intervalo)
+- 'AND'
+- 'OR'
 
 <br>
 
@@ -164,7 +164,7 @@ Além de atender à 2FN, a 3FN vai um passo adiante. Ela exige que nenhuma colun
 
 <br>
 
-## 👨‍🎓 Autor
+## 👨‍🎓 Aluno
 
 #### Lucas Araujo
 
