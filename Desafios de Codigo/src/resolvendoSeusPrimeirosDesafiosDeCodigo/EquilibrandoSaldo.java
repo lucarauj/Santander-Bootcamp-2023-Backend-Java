@@ -1,3 +1,5 @@
+package resolvendoSeusPrimeirosDesafiosDeCodigo;
+
 import java.util.Scanner;
 
 /*
