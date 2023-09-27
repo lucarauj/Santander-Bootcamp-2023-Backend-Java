@@ -1,23 +1,26 @@
 ```mermaid
 
-Classe iPhone
+Classe iPhone {
 - ReprodutorMusical
 - AparelhoTelefonico
 - NavegadorInternet
+}
 
-Interface ReprodutorMusical
+Interface ReprodutorMusical {
 + tocar()
 + pausar()
 + selecionarMusica()
+}
 
-Interface AparelhoTelefonico
+Interface AparelhoTelefonico {
 + ligar(numero: String)
 + atender()
 + iniciarConversaVoz()
+}
 
-Interface NavegadorInternet
+Interface NavegadorInternet {
 + exibirPagina(url: String)
 + adicionarNovaAba()
 + atualizarPagina()
-
+}
 ```
