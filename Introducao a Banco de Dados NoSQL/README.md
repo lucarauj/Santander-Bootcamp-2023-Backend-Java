@@ -81,7 +81,7 @@ Envolve a incorporação de informações redundantes em um documento para melho
 ```
 - Igualdade: 
 ```
-- find({"endereco.cidade": "São Paulo"})
+- : --> find({"endereco.cidade": "São Paulo"})
 
 <br>
 
