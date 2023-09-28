@@ -5,9 +5,6 @@ classDiagram
 		- AparelhoTelefonico
 		- NavegadorInternet
 	}
-	IPhone --> ReprodutorMusical : usa
-	IPhone --> AparelhoTelefonico : usa
-	IPhone --> NavegadorInternet : usa
 
 	Interface ReprodutorMusical {
 		+ tocar()
@@ -26,5 +23,9 @@ classDiagram
 		+ adicionarNovaAba()
 		+ atualizarPagina()
 	}
+
+	IPhone --> ReprodutorMusical : has
+	IPhone --> AparelhoTelefonico : has
+	IPhone --> NavegadorInternet : has
 
 ```
