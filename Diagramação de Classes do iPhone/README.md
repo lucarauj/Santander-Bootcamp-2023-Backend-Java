@@ -1,6 +1,4 @@
-## POO - Desafio
-
-### Modelagem e diagramação da representação em UML e Código no que se refere ao componente iPhone.
+## Desafio de Modelagem e diagramação UML e Código - IPhone.
 
 <br>
 
@@ -12,6 +10,9 @@ Elabore a diagramação das classes e interfaces com a proposta de representar o
 
 Em seguida crie as classes e interfaces no formato de arquivos ```.java```.
 
+<br>
+
+## Diagrama UML
 
 
 ```mermaid
