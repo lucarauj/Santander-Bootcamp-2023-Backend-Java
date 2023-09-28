@@ -154,3 +154,11 @@ Redis:
 - É um armazenamento chave-valor, onde os dados são associados a chaves únicas.
 - Excelente para armazenar dados em cache, como resultados de consultas frequentes ou sessões de usuário.
 - Amplamente usado para filas de mensagens, gerenciamento de sessões, armazenamento em cache e contagem de visualizações em tempo real.
+
+<br>
+
+## 👨‍🎓 Aluno
+
+#### Lucas Araujo
+
+<a href="https://www.linkedin.com/in/lucarauj"><img alt="lucarauj | LinkdeIN" width="40px" src="https://user-images.githubusercontent.com/43545812/144035037-0f415fc7-9f96-4517-a370-ccc6e78a714b.png" /></a>
