@@ -6,26 +6,25 @@ classDiagram
 		- NavegadorInternet
 	}
 
-	Interface ReprodutorMusical {
+	class ReprodutorMusical {
 		+ tocar()
 		+ pausar()
 		+ selecionarMusica()
 	}
 
-	Interface AparelhoTelefonico {
+	class AparelhoTelefonico {
 		+ ligar(numero: String)
 		+ atender()
 		+ iniciarConversaVoz()
 	}
 
-	Interface NavegadorInternet {
+	class NavegadorInternet {
 		+ exibirPagina(url: String)
 		+ adicionarNovaAba()
 		+ atualizarPagina()
 	}
 
-	IPhone --> ReprodutorMusical : has
-	IPhone --> AparelhoTelefonico : has
-	IPhone --> NavegadorInternet : has
-
+	IPhone ..|> ReprodutorMusical : implements
+	IPhone ..|> AparelhoTelefonico : implements
+	IPhone ..|> NavegadorInternet : implements
 ```
